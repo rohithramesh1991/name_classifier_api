@@ -1,0 +1,6 @@
+#ingore logs
+*.logs
+
+#ignore unwated environments and directories
+.idea/
+venv
